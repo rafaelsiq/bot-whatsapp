@@ -1,0 +1,48 @@
+[1006/140222.641:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Rafael\AppData\Local\Temp\puppeteer_dev_chrome_profile-ZZC928\Crashpad\settings.dat: O sistema não pode encontrar o caminho especificado. (0x3)
+[1006/140222.645:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Rafael\AppData\Local\Temp\puppeteer_dev_chrome_profile-ZZC928\Crashpad\reports\a34744b5-7fef-4c88-a838-0d673caa0085.dmp: O sistema não pode encontrar o caminho especificado. (0x3)
+[1006/140222.645:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1006/141247.878:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Rafael\AppData\Local\Temp\puppeteer_dev_chrome_profile-OGSt0T\Crashpad\settings.dat: O sistema não pode encontrar o caminho especificado. (0x3)
+[1006/141247.882:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Rafael\AppData\Local\Temp\puppeteer_dev_chrome_profile-OGSt0T\Crashpad\reports\ae996d65-da1f-4d3e-9180-c2b8648594da.dmp: O sistema não pode encontrar o caminho especificado. (0x3)
+[1006/141247.882:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1006/142808.646:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1006/142808.655:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Rafael\AppData\Local\Temp\puppeteer_dev_chrome_profile-NDHNFj\Crashpad\settings.dat: O sistema não pode encontrar o caminho especificado. (0x3)
+[1006/142808.655:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Rafael\AppData\Local\Temp\puppeteer_dev_chrome_profile-NDHNFj\Crashpad\reports\9e5f6275-6104-49fb-8ece-9bf89c207584.dmp: O sistema não pode encontrar o caminho especificado. (0x3)
+[1006/142808.655:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1006/143516.658:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Rafael\AppData\Local\Temp\puppeteer_dev_chrome_profile-8Gdz3q\Crashpad\settings.dat: O sistema não pode encontrar o caminho especificado. (0x3)
+[1006/143516.659:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Rafael\AppData\Local\Temp\puppeteer_dev_chrome_profile-8Gdz3q\Crashpad\reports\41639c9f-e445-4f8e-b60a-d7441c504df9.dmp: O sistema não pode encontrar o caminho especificado. (0x3)
+[1006/143516.659:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1006/144430.158:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1006/144430.168:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Rafael\AppData\Local\Temp\puppeteer_dev_chrome_profile-Mr9O8E\Crashpad\settings.dat: O sistema não pode encontrar o caminho especificado. (0x3)
+[1006/144430.168:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Rafael\AppData\Local\Temp\puppeteer_dev_chrome_profile-Mr9O8E\Crashpad\reports\5a1649e0-7483-4613-9d20-4838686451b5.dmp: O sistema não pode encontrar o caminho especificado. (0x3)
+[1006/144430.168:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1006/144519.691:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1006/144519.705:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Rafael\AppData\Local\Temp\puppeteer_dev_chrome_profile-f5E1wE\Crashpad\settings.dat: O sistema não pode encontrar o caminho especificado. (0x3)
+[1006/144519.706:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Rafael\AppData\Local\Temp\puppeteer_dev_chrome_profile-f5E1wE\Crashpad\reports\7d232117-c5d3-4340-84f3-2f7c62677c03.dmp: O sistema não pode encontrar o caminho especificado. (0x3)
+[1006/144519.706:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1006/145224.163:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1006/145224.172:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Rafael\AppData\Local\Temp\puppeteer_dev_chrome_profile-l3O6lT\Crashpad\settings.dat: O sistema não pode encontrar o caminho especificado. (0x3)
+[1006/145224.173:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Rafael\AppData\Local\Temp\puppeteer_dev_chrome_profile-l3O6lT\Crashpad\reports\18b604e8-bd17-4f04-954e-b19096e08b18.dmp: O sistema não pode encontrar o caminho especificado. (0x3)
+[1006/145224.173:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1006/151128.130:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Rafael\AppData\Local\Temp\puppeteer_dev_chrome_profile-dEB4hj\Crashpad\settings.dat: O sistema não pode encontrar o caminho especificado. (0x3)
+[1006/151128.131:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Rafael\AppData\Local\Temp\puppeteer_dev_chrome_profile-dEB4hj\Crashpad\reports\ec27d911-7dc6-41d5-8d73-fd5a856e6d9a.dmp: O sistema não pode encontrar o caminho especificado. (0x3)
+[1006/151128.131:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1006/151756.374:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Rafael\AppData\Local\Temp\puppeteer_dev_chrome_profile-DXnelg\Crashpad\settings.dat: O sistema não pode encontrar o caminho especificado. (0x3)
+[1006/151756.375:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Rafael\AppData\Local\Temp\puppeteer_dev_chrome_profile-DXnelg\Crashpad\reports\9f9b72d2-50ba-43a7-83d6-9643e49b5576.dmp: O sistema não pode encontrar o caminho especificado. (0x3)
+[1006/151756.375:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1006/152947.297:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Rafael\AppData\Local\Temp\puppeteer_dev_chrome_profile-CgBhS7\Crashpad\settings.dat: O sistema não pode encontrar o caminho especificado. (0x3)
+[1006/152947.298:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Rafael\AppData\Local\Temp\puppeteer_dev_chrome_profile-CgBhS7\Crashpad\reports\a7ff07a7-4f34-48fc-94dd-6c5581eb4343.dmp: O sistema não pode encontrar o caminho especificado. (0x3)
+[1006/152947.298:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1006/153236.797:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Rafael\AppData\Local\Temp\puppeteer_dev_chrome_profile-3hGWau\Crashpad\settings.dat: O sistema não pode encontrar o caminho especificado. (0x3)
+[1006/153236.799:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Rafael\AppData\Local\Temp\puppeteer_dev_chrome_profile-3hGWau\Crashpad\reports\168bd810-cbfd-4a32-b09b-50a418519687.dmp: O sistema não pode encontrar o caminho especificado. (0x3)
+[1006/153236.799:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1006/154845.127:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1006/154845.135:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Rafael\AppData\Local\Temp\puppeteer_dev_chrome_profile-AAGrbY\Crashpad\settings.dat: O sistema não pode encontrar o caminho especificado. (0x3)
+[1006/154845.136:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Rafael\AppData\Local\Temp\puppeteer_dev_chrome_profile-AAGrbY\Crashpad\reports\8b28d4aa-2354-4a0b-b899-0e5acb0c32e5.dmp: O sistema não pode encontrar o caminho especificado. (0x3)
+[1006/154845.136:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1006/155031.243:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1006/155031.256:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Rafael\AppData\Local\Temp\puppeteer_dev_chrome_profile-mggDVp\Crashpad\settings.dat: O sistema não pode encontrar o caminho especificado. (0x3)
+[1006/155031.256:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Rafael\AppData\Local\Temp\puppeteer_dev_chrome_profile-mggDVp\Crashpad\reports\371295c5-0da7-40db-a7b8-525c0d0f9769.dmp: O sistema não pode encontrar o caminho especificado. (0x3)
+[1006/155031.256:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1006/160606.491:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Rafael\AppData\Local\Temp\puppeteer_dev_chrome_profile-vmJR5e\Crashpad\settings.dat: O sistema não pode encontrar o caminho especificado. (0x3)
+[1006/160606.491:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Rafael\AppData\Local\Temp\puppeteer_dev_chrome_profile-vmJR5e\Crashpad\reports\bdcf4640-c66f-419f-bc89-691f120df432.dmp: O sistema não pode encontrar o caminho especificado. (0x3)
+[1006/160606.491:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
